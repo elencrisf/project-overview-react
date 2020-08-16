@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 // import Task from './components/Task';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './components/layout/Header';
 import Workouts from './components/Workouts';
 import About from './components/pages/About';
