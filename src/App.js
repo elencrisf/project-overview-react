@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     // <Provider>
-      <Router>
+      <Router basename="/">
         <div className="App">
           <Header branding="Task Manager" />
           <div className="container">
