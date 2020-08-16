@@ -28,7 +28,8 @@ const App = () => {
     // <Provider>
       <Router basename="/">
         <div className="App">
-          <Header branding="Task Manager" />
+          {/* <Header branding="Task Manager" /> */}
+          <Header />
           <div className="container">
             <div className={"work-wrapper"}>
             <h1>Work Tracker</h1>

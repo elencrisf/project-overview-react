@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
 
-
-const Header = props => {
-  const { branding } = props;
+const Header = () => {
+// const Header = props => {
+  // const { branding } = props;
 
   // const dateBuilder = (d) => {
   //   let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -24,7 +24,7 @@ const Header = props => {
     <nav className="navbar navbar-expand-sm navbar-dark bg-danger mb-3 py-0">
       <div className="container">
         <Link to="/" className="navbar-brand">
-          {branding}
+          {/* {branding} */}Tasks Manager
         </Link>
         <div>
           <ul className="navbar-nav mr-auto">
