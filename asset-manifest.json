@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project-overview-react/static/css/main.fd73f512.chunk.css",
+    "main.js": "/project-overview-react/static/js/main.0e4f4bdf.chunk.js",
+    "main.js.map": "/project-overview-react/static/js/main.0e4f4bdf.chunk.js.map",
+    "runtime-main.js": "/project-overview-react/static/js/runtime-main.3b760315.js",
+    "runtime-main.js.map": "/project-overview-react/static/js/runtime-main.3b760315.js.map",
+    "static/css/2.de424728.chunk.css": "/project-overview-react/static/css/2.de424728.chunk.css",
+    "static/js/2.bf17251a.chunk.js": "/project-overview-react/static/js/2.bf17251a.chunk.js",
+    "static/js/2.bf17251a.chunk.js.map": "/project-overview-react/static/js/2.bf17251a.chunk.js.map",
+    "index.html": "/project-overview-react/index.html",
+    "precache-manifest.f642e8ecd82fd97dadd85fbca5b21aa8.js": "/project-overview-react/precache-manifest.f642e8ecd82fd97dadd85fbca5b21aa8.js",
+    "service-worker.js": "/project-overview-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/project-overview-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.fd73f512.chunk.css.map": "/project-overview-react/static/css/main.fd73f512.chunk.css.map",
+    "static/js/2.bf17251a.chunk.js.LICENSE.txt": "/project-overview-react/static/js/2.bf17251a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/project-overview-react/static/media/boatImage.d61546cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b760315.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.bf17251a.chunk.js",
+    "static/css/main.fd73f512.chunk.css",
+    "static/js/main.0e4f4bdf.chunk.js"
+  ]
+}
